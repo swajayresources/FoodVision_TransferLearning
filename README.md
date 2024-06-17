@@ -19,6 +19,7 @@
 | Mixed precision | Yes | 
 | Data loading | Performanant tf.data API | 
 | Target results | 77.4% top-1 accuracy (beat [DeepFood paper](https://arxiv.org/abs/1606.05675)) | 
+| Achieved results | 80.1% top-1 accuracy (beat [DeepFood paper](https://arxiv.org/abs/1606.05675)) | 
 
 
 
