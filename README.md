@@ -1,9 +1,9 @@
 
-"""07_food_vision_milestone_project_1.ipynb
 
 
 
-# 07 Milestone Project 1: 🍔👁 Food Vision Big™
+
+# 🍔👁 Food Vision Big™
 
 
 
